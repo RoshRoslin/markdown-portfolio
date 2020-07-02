@@ -5,7 +5,7 @@ Below is a list of my _skills_
 - photography
 - Education
 
-## programming **languages**
+## Programming **languages**
 - Javascript
 - HTML
 - CSS
