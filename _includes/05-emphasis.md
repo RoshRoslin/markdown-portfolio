@@ -1,1 +1,14 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+##Skills 
+Below is a list of my _skills_
+- Music Live & Studio
+- Videography 
+- photography
+- Education
+
+##programming **languages**
+- Javascript
+- HTML
+- CSS
+- React
+
+
