@@ -1,11 +1,11 @@
-##Skills 
+## Skills 
 Below is a list of my _skills_
 - Music Live & Studio
 - Videography 
 - photography
 - Education
 
-##programming **languages**
+## programming **languages**
 - Javascript
 - HTML
 - CSS
